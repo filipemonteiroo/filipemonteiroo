@@ -14,7 +14,7 @@
  
 <br>
  
-### Ficou interessado nos meus projetos, ou acha que eu serei uma peça fundamental na sua empresa? Entre em contacto comigo! 
+### Os meus projetos foram do seu agrado ou eu tenho perfil adequado para fazer parte da sua empresa ou então desenvolver um projeto personalizado? Entre em contacto comigo! 
  
 <div> 
   <a href = "mailto:@filipeonteiro20055.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
